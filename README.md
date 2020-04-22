@@ -6,8 +6,8 @@ freeCodeCamp.org is a tiny nonprofit that's helping millions of people learn to 
 Free free to donate to keep the organization alive
 https://donate.freecodecamp.org/
 
-**Crypto Donations**
-Bitcoin: 12skYi7aMCjDUdrVdoB3JjZ77ug8gxJfbL
-Ethereum: 0x0ADbEf2471416BD8732cf0f3944294eE393CcAF5
-Litecoin: LKu8UG8Z1nbTxnq9Do96PsC3FwbNtycf3X
-Bitcoin Cash: 1EBxPEJWrGZWxe2UayyAsnd5VsRg5H9xfu
+**Crypto Donations** <br />
+Bitcoin: 12skYi7aMCjDUdrVdoB3JjZ77ug8gxJfbL <br />
+Ethereum: 0x0ADbEf2471416BD8732cf0f3944294eE393CcAF5 <br />
+Litecoin: LKu8UG8Z1nbTxnq9Do96PsC3FwbNtycf3X <br />
+Bitcoin Cash: 1EBxPEJWrGZWxe2UayyAsnd5VsRg5H9xfu <br />
